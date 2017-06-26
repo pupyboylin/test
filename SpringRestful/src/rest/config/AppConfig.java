@@ -19,6 +19,7 @@ public class AppConfig {
 		viewResolver.setPrefix("/WEB-INF/views/");
 		viewResolver.setSuffix(".jsp");
 
+		//afdasf
 		return viewResolver;
 	}
 
